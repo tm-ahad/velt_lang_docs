@@ -1,0 +1,50 @@
+<title>Docs</title>
+
+<body class="bg-gray-800">
+	<div aria-label="Sidebar">
+		<div
+			class="overflow-y-auto py-4 px-3 h-[100%] bg-gray-200 rounded dark:bg-gray-500 top-0 right-0 fixed pr-[50px]"
+		>
+			<ul class="space-y-2">
+				<li>
+					<span class="ml-3">
+						<big> Let's get start </big>
+					</span>
+				</li>
+				<li>
+					<a
+						href="/getting_started"
+						class="flex transition-[1s] items-center cursor-pointer text-base pl-3 mb-3 front-normal text-gray-900 rounded-lg dark:text-white hover:text-cyan-400 dark:hover:text-cyan-400: ml-3"
+					>
+						Getting started
+					</a>
+				</li>
+				<li>
+					<a
+						href="/hello_world"
+						class="flex transition-[1s] items-center cursor-pointer text-base pl-3 mb-3 front-normal text-gray-900 rounded-lg dark:text-white hover:text-cyan-400 dark:hover:text-cyan-400: ml-3"
+					>
+						Hello World!
+					</a>
+				</li>
+				<li>
+					<a
+						href="/variables_&_specifier"
+						class="flex transition-[1s] items-center cursor-pointer text-base pl-3 mb-3 front-normal text-gray-900 rounded-lg dark:text-white hover:text-cyan-400 dark:hover:text-cyan-400: ml-3"
+					>
+						Variables & specifier
+					</a>
+				</li>
+				<li>
+					<a
+						href="/formatter"
+						class="flex transition-[1s] items-center cursor-pointer text-base pl-3 mb-3 front-normal text-gray-900 rounded-lg dark:text-white hover:text-cyan-400  dark:hover:text-cyan-400: ml-3"
+					>
+						formatter
+					</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<script src="https://cdn.tailwindcss.com"></script>
+</body>
